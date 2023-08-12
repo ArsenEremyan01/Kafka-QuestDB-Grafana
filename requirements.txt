@@ -1,0 +1,7 @@
+requests
+asyncio
+kafka-python
+numpy~=1.25.2
+pandas~=2.0.3
+datetime~=5.2
+websocket-client~=1.6.1
