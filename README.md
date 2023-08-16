@@ -47,9 +47,3 @@ Run the script to poll Coinbase API:
 ```
 python getData.py
 ```
-
-(Optional): calculate moving averages
-
-```
-python movingAverage.py
-```
