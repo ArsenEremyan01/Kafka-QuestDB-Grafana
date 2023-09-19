@@ -1,7 +1,5 @@
 # Using Kafka to Track BTCUSDT Agg Price Trends
 
-This repo polls Coinbase API for various cryptocurrency prices and uses Kafka to calculate moving average prices and stores the data in a timeseries database, [QuestDB](https://questdb.io/), for further analysis.
-
 ## Prerequisites
 
 - Docker (min of 4GB memory)
